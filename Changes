@@ -1,0 +1,5 @@
+Revision history for Perl extension D64::Disk::Dir.
+
+0.01  2011-01-09
+    - initial version (supports reading D64/D71/D81 disk image directories,
+      and accessing individual directory entries)
